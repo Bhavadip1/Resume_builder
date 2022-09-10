@@ -1,0 +1,124 @@
+.Content_main {
+  margin-top: 40px !important;
+  margin-left: 0 !important;
+  width: 100% !important;
+  justify-content: center;
+  background-color: rgb(253, 249, 249);
+}
+.Content_submain1 {
+  width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 !important;
+  height: fit-content;
+}
+
+.Content_submain2 {
+  padding-left: 0% !important;
+  padding-top: 0% !important;
+  display: flex;
+  justify-content: center;
+}
+
+.Content_profil {
+  display: flex;
+  justify-content: center;
+}
+
+.Content_profil img {
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+  display: flex !important;
+  justify-content: center !important;
+}
+
+.Content_contact {
+  margin-top: 2rem;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.Content_skill {
+  margin-top: 2rem;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.Content_about {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column !important;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.Content_typo1 {
+  color: #123b65;
+  font-family: "Kanit", sans-serif !important;
+  margin-top: 2rem !important;
+}
+
+.Content_typo2 {
+  margin-top: 2rem !important;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 20px;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.Content_Education {
+  margin-top: 2rem;
+  font-family: "Josefin Sans", sans-serif;
+  line-height: 23px;
+  padding-left: 25px;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.Content_divider {
+  margin-top: 35px !important;
+  border-width: 2px !important;
+  border-color: black !important;
+  width: 90%;
+}
+
+.Content_grid1 {
+  width: 90%;
+}
+
+.Content_grid2 {
+  width: 90%;
+}
+
+ul.a {
+  list-style-type: square;
+  margin: 0% !important;
+}
+
+ul.b {
+  list-style-type: square;
+  margin: 0%;
+  padding: 0%;
+}
+
+ul.c {
+  list-style-type: square;
+  padding: 0%;
+  margin-bottom: 0%;
+}
+
+.Content_grid_divider {
+  border-color: black !important;
+  border-width: 2px !important;
+}
+
+.Typography_p {
+  margin-bottom: 35px !important;
+  font-size: 20px;
+}
+
+.Content_experience {
+  margin-top: 2rem;
+  font-family: "Josefin Sans", sans-serif !important;
+  line-height: 23px;
+  padding-left: 25px;
+}

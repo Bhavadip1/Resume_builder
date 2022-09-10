@@ -1,0 +1,32 @@
+.Header_main {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+.header_submain {
+  width: 100%;
+}
+
+.header_typo1 {
+  color: #505050;
+  display: flex;
+  justify-content: center;
+  letter-spacing: 0.3em !important;
+}
+
+.header_typo2 {
+  margin-top: 25px !important;
+  font-size: 25px;
+  color: #0e325d;
+  display: flex;
+  justify-content: center;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  letter-spacing: 0.2em !important;
+}
+
+.Header_divider {
+  margin-top: 35px !important;
+  border-width: 2px !important;
+  border-color: black !important;
+}
